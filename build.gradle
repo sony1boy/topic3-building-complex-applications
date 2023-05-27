@@ -17,6 +17,8 @@ buildscript {
   }
 }
 
+implementation 'androidx.constrainlayout:constrainlayot-compose:1.0.1'
+
 allprojects {
   repositories {
     google()
